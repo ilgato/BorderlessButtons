@@ -1,0 +1,7 @@
+/Users/pier_cm/AndroidStudioProjects/BorderlessButtons/Application/build/intermediates/classes/debug
+/Users/pier_cm/AndroidStudioProjects/BorderlessButtons/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-74b34cc2a8cb64418e362057dc427efe87f9d517.jar
+/Users/pier_cm/AndroidStudioProjects/BorderlessButtons/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-bbe4c7c7ed2d9f4aab00ddbcd159b885a23ecd67.jar
+/Users/pier_cm/AndroidStudioProjects/BorderlessButtons/Application/build/intermediates/pre-dexed/debug/classes-a9d6a6b6dd323f028dbc34f6e51b85c2e70e6d76.jar
+/Users/pier_cm/AndroidStudioProjects/BorderlessButtons/Application/build/intermediates/pre-dexed/debug/classes-bab122ef80190630f3729c710d48270f3fda83a4.jar
+/Users/pier_cm/AndroidStudioProjects/BorderlessButtons/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-9e90b886a63f517cd6e215b07ba87414f73466b3.jar
+/Users/pier_cm/AndroidStudioProjects/BorderlessButtons/Application/build/intermediates/pre-dexed/debug/classes-2235c88ae0ff1999a9bb155c9b86985cf17749fd.jar
